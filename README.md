@@ -7,4 +7,32 @@
 4. Key Concepts: I explored code writing, comments, arithmetic, and variable usage. I also Learnt how to add JavaScript to web pages.
 5. Contains day 1 exercise.
 
+# 30 Days JavaScript Challenge - Day 2
+
+Day 2 includes the day2.js file and the exercise2 directory. During this session, I focused on understanding data types in JavaScript, covering the following concepts:
+
+Data Types
+
+- Primitive Data Types
+
+- Non-Primitive Data Types
+
+- Checking Data Types and Casting
+
+Numbers
+- Declaration of Number Data Types
+
+- Utilization of the Math Object
+
+Strings
+- Application of String methods
+
+- Handling Long Literal Strings
+
+- Usage of Escape Sequences in Strings
+
+- String Concatenation
+
+The exercise2 sub-directory comprises exercise.js, exercise2.js, and exercise3.js files designed for practicing the concepts learned on day 2.
+
    
