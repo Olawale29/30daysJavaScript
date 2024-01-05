@@ -35,4 +35,20 @@ Strings
 
 The exercise2 sub-directory comprises exercise.js, exercise2.js, and exercise3.js files designed for practicing the concepts learned on day 2.
 
+# 30 Days JavaScript Challenge - Day 3
+
+On day 3, there is a day3.js file and an exercise3 directory. I gained knowledge in JavaScript related to Booleans, Operators, and Dates. The topics covered include:
+
+- Truthy values
+- Falsy values
+- Undefined
+- Null
+- Operators
+- Operator Precedence
+- Numbers
+- Window Methods
+- Date Object
+
+Inside the exercise3 sub-directory, you can find exercise.js, exercise2.js, and exercise3.js files designed for practicing the concepts covered on day 3.
+
    
