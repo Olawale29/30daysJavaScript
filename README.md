@@ -77,4 +77,17 @@ Day 5 includes the day5.js file and an exercise5 directory. During this session,
   
 The exercise5 sub-directory contains exercise.js, exercise2.js, and exercise3.js files for practicing the concepts learned on day 5.
 
+#Day6
+
+Includes the day6.js file and the exercise6 directory. During this session, I gained knowledge of various JavaScript loop concepts, such as:
+
+For Loop
+While Loop
+Do While Loop
+For Of Loop
+Break
+Continue
+
+The exercise6 sub-directory comprises exercise.js, exercise2.js, and exercise3.js files for hands-on practice of the concepts covered on day 6.
+
    
