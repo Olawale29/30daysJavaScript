@@ -90,4 +90,26 @@ Includes the day6.js file and the exercise6 directory. During this session, I ga
 
 The exercise6 sub-directory comprises exercise.js, exercise2.js, and exercise3.js files for hands-on practice of the concepts covered on day 6.
 
+#Day 7
+
+
+Day 7 includes the day7.js file and an exercise7 directory. During this session, I delved into JavaScript functions, covering the following concepts:
+
+- Declaration of functions
+- Functions without parameters and return values
+- Functions with parameters and return values
+- Functions with an unlimited number of parameters
+- Anonymous functions
+- Expression functions
+- Self-invoking functions
+- Arrow functions
+- Functions with default parameters
+  
+Within the exercise7 sub-directory, you'll find exercise.js, exercise2.js, and exercise3.js files designed for practicing the concepts learned on day 7.
+
+
+
+
+
+
    
