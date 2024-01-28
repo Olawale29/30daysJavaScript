@@ -64,7 +64,7 @@ Day 4 includes the day4.js file and an exercise4 directory. During this session,
 
 Within the exercise4 sub-directory, you'll find exercise.js, exercise2.js, and exercise3.js files designed for practicing the concepts learned on day 4.
 
-#Day 5
+#**Day 5**
 
 Day 5 includes the day5.js file and an exercise5 directory. During this session, I gained knowledge about arrays in JavaScript, covering the following concepts:
 
