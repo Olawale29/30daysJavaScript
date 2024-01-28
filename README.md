@@ -92,7 +92,6 @@ The exercise6 sub-directory comprises exercise.js, exercise2.js, and exercise3.j
 
 #Day 7
 
-
 Day 7 includes the day7.js file and an exercise7 directory. During this session, I delved into JavaScript functions, covering the following concepts:
 
 - Declaration of functions
@@ -106,6 +105,28 @@ Day 7 includes the day7.js file and an exercise7 directory. During this session,
 - Functions with default parameters
   
 Within the exercise7 sub-directory, you'll find exercise.js, exercise2.js, and exercise3.js files designed for practicing the concepts learned on day 7.
+
+#Day 8
+
+Day 8 includes the day8.js file and an exercise8 directory. During this session, I focused on JavaScript objects and covered various concepts such as:
+
+- Objects
+- Scope
+- Window global object
+- Global scope & local scope
+- Creating an object
+- Retrieving values from an object
+- Creating object methods
+- Adding new keys to an object
+- Object methods: keys(), values(), entries(), hasOwnProperty()
+- Functions with default parameters
+The exercise8 sub-directory comprises exercise.js, exercise2.js, and exercise3.js files designed for practicing the concepts learned in day8.
+
+
+
+
+
+
 
 
 
