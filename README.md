@@ -64,7 +64,7 @@ Day 4 includes the day4.js file and an exercise4 directory. During this session,
 
 Within the exercise4 sub-directory, you'll find exercise.js, exercise2.js, and exercise3.js files designed for practicing the concepts learned on day 4.
 
-#**Day 5**
+# Day 5
 
 Day 5 includes the day5.js file and an exercise5 directory. During this session, I gained knowledge about arrays in JavaScript, covering the following concepts:
 
@@ -77,7 +77,7 @@ Day 5 includes the day5.js file and an exercise5 directory. During this session,
   
 The exercise5 sub-directory contains exercise.js, exercise2.js, and exercise3.js files for practicing the concepts learned on day 5.
 
-#Day6
+# Day 6
 
 Includes the day6.js file and the exercise6 directory. During this session, I gained knowledge of various JavaScript loop concepts, such as:
 
@@ -90,7 +90,7 @@ Includes the day6.js file and the exercise6 directory. During this session, I ga
 
 The exercise6 sub-directory comprises exercise.js, exercise2.js, and exercise3.js files for hands-on practice of the concepts covered on day 6.
 
-#Day 7
+# Day 7
 
 Day 7 includes the day7.js file and an exercise7 directory. During this session, I delved into JavaScript functions, covering the following concepts:
 
@@ -106,7 +106,7 @@ Day 7 includes the day7.js file and an exercise7 directory. During this session,
   
 Within the exercise7 sub-directory, you'll find exercise.js, exercise2.js, and exercise3.js files designed for practicing the concepts learned on day 7.
 
-#Day 8
+# Day 8
 
 Day 8 includes the day8.js file and an exercise8 directory. During this session, I focused on JavaScript objects and covered various concepts such as:
 
