@@ -138,6 +138,26 @@ Higher Order Functions
 Sub-directory exercise9
 Encompasses exercise.js, exercise2.js, exercise3.js files for hands-on practice of the concepts learned in day9.
 
+# Day 10
+
+Includes the file day10.js and the directory exercise10. In JavaScript, I acquired knowledge about Sets and Maps, covering the following concepts:
+
+Set
+
+- Formation of a set
+- Addition and removal of element(s) from a set
+- Verification of an element's presence in the set
+- Clearing the set
+- Operations like Union, Intersection, and Difference on sets
+
+Map
+
+- Establishment of a map
+- Addition and retrieval of value(s) from a map
+- Verification of keys in a map
+
+Within the exercise10 sub-directory are exercise.js, exercise2.js, and exercise3.js files for practicing the concepts learned on day10.
+
 
 
 
