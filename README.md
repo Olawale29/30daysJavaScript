@@ -122,6 +122,23 @@ Day 8 includes the day8.js file and an exercise8 directory. During this session,
 - Functions with default parameters
 The exercise8 sub-directory comprises exercise.js, exercise2.js, and exercise3.js files designed for practicing the concepts learned in day8.
 
+# Day 9
+Includes the day9.js file and the exercise9 directory. I acquired knowledge about Higher Order Functions in JavaScript, covering the following concepts:
+
+Higher Order Functions
+
+- Callbacks
+
+- Returning functions
+
+- Time-related functions - setInterval(), setTimeout()
+
+- Functional Programming - forEach(), map(), filter(), reduce(), every(), find(), findIndex(), some(), sort()
+
+Sub-directory exercise9
+Encompasses exercise.js, exercise2.js, exercise3.js files for hands-on practice of the concepts learned in day9.
+
+
 
 
 
