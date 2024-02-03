@@ -9,7 +9,7 @@
 
 # Day 2
 
-Day 2 includes the day2.js file and the exercise2 directory. During this session, I focused on understanding data types in JavaScript, covering the following concepts:
+Day 2 includes the day2.js file and the exercise directory. During this session, I focused on understanding data types in JavaScript, covering the following concepts:
 
 Data Types
 
@@ -37,7 +37,7 @@ The exercises sub-directory comprises exercise1.js, exercise2.js, and exercise3.
 
 # Day 3
 
-On day 3, there is a day3.js file and an exercise3 directory. I gained knowledge in JavaScript related to Booleans, Operators, and Dates. The topics covered include:
+On day 3, there is a day3.js file and an exercises directory. I gained knowledge in JavaScript related to Booleans, Operators, and Dates. The topics covered include:
 
 - Truthy values
 - Falsy values
@@ -53,7 +53,7 @@ Inside the exercises sub-directory, you can find exercise1.js, exercise2.js, and
 
 # Day 4
 
-Day 4 includes the day4.js file and an exercise4 directory. During this session, I gained knowledge about JavaScript conditionals, covering the following concepts:
+Day 4 includes the day4.js file and an exercises directory. During this session, I gained knowledge about JavaScript conditionals, covering the following concepts:
 
 - If statements
 - Else statements
@@ -92,7 +92,7 @@ The exercises sub-directory comprises exercise1.js, exercise2.js, and exercise3.
 
 # Day 7
 
-Day 7 includes the day7.js file and an exercise7 directory. During this session, I delved into JavaScript functions, covering the following concepts:
+Day 7 includes the day7.js file and an exercises directory. During this session, I delved into JavaScript functions, covering the following concepts:
 
 - Declaration of functions
 - Functions without parameters and return values
@@ -123,7 +123,7 @@ Day 8 includes the day8.js file and an exercise8 directory. During this session,
 The exercises sub-directory comprises exercise1.js, exercise2.js, and exercise3.js files designed for practicing the concepts learned in day8.
 
 # Day 9
-Includes the day9.js file and the exercise9 directory. I acquired knowledge about Higher Order Functions in JavaScript, covering the following concepts:
+Includes the day9.js file and the exercises directory. I acquired knowledge about Higher Order Functions in JavaScript, covering the following concepts:
 
 Higher Order Functions
 
@@ -140,7 +140,7 @@ Encompasses exercise1.js, exercise2.js, exercise3.js files for hands-on practice
 
 # Day 10
 
-Includes the file day10.js and the directory exercise10. In JavaScript, I acquired knowledge about Sets and Maps, covering the following concepts:
+Includes the file day10.js and the directory exercise. In JavaScript, I acquired knowledge about Sets and Maps, covering the following concepts:
 
 Set
 
