@@ -33,7 +33,7 @@ Strings
 
 - String Concatenation
 
-The exercise2 sub-directory comprises exercise.js, exercise2.js, and exercise3.js files designed for practicing the concepts learned on day 2.
+The exercises sub-directory comprises exercise1.js, exercise2.js, and exercise3.js files designed for practicing the concepts learned on day 2.
 
 # Day 3
 
@@ -49,7 +49,7 @@ On day 3, there is a day3.js file and an exercise3 directory. I gained knowledge
 - Window Methods
 - Date Object
 
-Inside the exercise3 sub-directory, you can find exercise.js, exercise2.js, and exercise3.js files designed for practicing the concepts covered on day 3.
+Inside the exercises sub-directory, you can find exercise1.js, exercise2.js, and exercise3.js files designed for practicing the concepts covered on day 3.
 
 # Day 4
 
@@ -62,7 +62,7 @@ Day 4 includes the day4.js file and an exercise4 directory. During this session,
 - Switch statements
 - Ternary Operators
 
-Within the exercise4 sub-directory, you'll find exercise.js, exercise2.js, and exercise3.js files designed for practicing the concepts learned on day 4.
+Within the exercises sub-directory, you'll find exercise1.js, exercise2.js, and exercise3.js files designed for practicing the concepts learned on day 4.
 
 # Day 5
 
@@ -75,7 +75,7 @@ Day 5 includes the day5.js file and an exercise5 directory. During this session,
 - Sorting and reversing arrays
 - Arrays of arrays
   
-The exercise5 sub-directory contains exercise.js, exercise2.js, and exercise3.js files for practicing the concepts learned on day 5.
+The exercises sub-directory contains exercise1.js, exercise2.js, and exercise3.js files for practicing the concepts learned on day 5.
 
 # Day 6
 
@@ -88,7 +88,7 @@ Includes the day6.js file and the exercise6 directory. During this session, I ga
 - Break
 - Continue
 
-The exercise6 sub-directory comprises exercise.js, exercise2.js, and exercise3.js files for hands-on practice of the concepts covered on day 6.
+The exercises sub-directory comprises exercise1.js, exercise2.js, and exercise3.js files for hands-on practice of the concepts covered on day 6.
 
 # Day 7
 
@@ -104,7 +104,7 @@ Day 7 includes the day7.js file and an exercise7 directory. During this session,
 - Arrow functions
 - Functions with default parameters
   
-Within the exercise7 sub-directory, you'll find exercise.js, exercise2.js, and exercise3.js files designed for practicing the concepts learned on day 7.
+Within the exercises sub-directory, you'll find exercise1.js, exercise2.js, and exercise3.js files designed for practicing the concepts learned on day 7.
 
 # Day 8
 
@@ -120,7 +120,7 @@ Day 8 includes the day8.js file and an exercise8 directory. During this session,
 - Adding new keys to an object
 - Object methods: keys(), values(), entries(), hasOwnProperty()
 - Functions with default parameters
-The exercise8 sub-directory comprises exercise.js, exercise2.js, and exercise3.js files designed for practicing the concepts learned in day8.
+The exercises sub-directory comprises exercise1.js, exercise2.js, and exercise3.js files designed for practicing the concepts learned in day8.
 
 # Day 9
 Includes the day9.js file and the exercise9 directory. I acquired knowledge about Higher Order Functions in JavaScript, covering the following concepts:
@@ -135,8 +135,8 @@ Higher Order Functions
 
 - Functional Programming - forEach(), map(), filter(), reduce(), every(), find(), findIndex(), some(), sort()
 
-Sub-directory exercise9
-Encompasses exercise.js, exercise2.js, exercise3.js files for hands-on practice of the concepts learned in day9.
+Sub-directory include
+Encompasses exercise1.js, exercise2.js, exercise3.js files for hands-on practice of the concepts learned in day9.
 
 # Day 10
 
@@ -156,7 +156,25 @@ Map
 - Addition and retrieval of value(s) from a map
 - Verification of keys in a map
 
-Within the exercise10 sub-directory are exercise.js, exercise2.js, and exercise3.js files for practicing the concepts learned on day10.
+Within the exercises sub-directory are exercise1.js, exercise2.js, and exercise3.js files for practicing the concepts learned on day10.
+
+# Day 11
+
+Inside the directory, you'll find a file named "day11.js" and a sub-directory named "exercise11." Today i learnt about Destructuring and Spreading in JavaScript, I covered various concepts which are:
+
+- Destructuring Arrays and Objects
+- Renaming during structuring
+- Object parameters with and without destructuring
+- Destructuring during iteration
+- Spread or rest Operator
+- Using the spread operator to get the rest of array elements
+- Applying the spread operator to copy arrays and objects
+- Utilizing the spread operator with arrow functions
+
+Within the "exercise11" sub-directory, you can practice these concepts with the files "exercise1.js," "exercise2.js," and "exercise3.js" that are provided.
+
+
+
 
 
 
