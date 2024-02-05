@@ -173,6 +173,21 @@ Inside the directory, you'll find a file named "day11.js" and a sub-directory na
 
 Within the "exercise11" sub-directory, you can practice these concepts with the files "exercise1.js," "exercise2.js," and "exercise3.js" that are provided.
 
+# Day 12
+Includes the file day12.js and the directory exercises. During day 12, I gained knowledge about Regular Expressions in JavaScript, covering the following concepts:
+
+Regular Expressions:
+
+- Parameters of RegExp - patterns, flags
+
+- Creating patterns with and without the RegExp constructor
+
+- Methods of the RegExp object - test(), match(), replace()
+
+Within the exercises sub-directory, you can find exercise1.js, exercise2.js, and exercise3.js files for practicing the concepts learned on day12.
+
+
+
 
 
 
