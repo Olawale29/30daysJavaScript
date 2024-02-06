@@ -186,6 +186,24 @@ Regular Expressions:
 
 Within the exercises sub-directory, you can find exercise1.js, exercise2.js, and exercise3.js files for practicing the concepts learned on day12.
 
+# Day 13
+Includes the file day13.js and the directory exercises. During the learning process, I covered Console Object Methods in JavaScript, encompassing the following concepts:
+
+Console Object Methods:
+
+- console.log()
+- console.warn()
+- console.error()
+- console.table()
+- console.time()
+- console.info()
+- console.assert()
+- console.group()
+- console.count()
+- console.clear()
+
+The sub-directory exercise13 comprises exercise1.js, exercise2.js, and exercise3.js files designed for practicing the concepts learned on day13.
+
 
 
 
