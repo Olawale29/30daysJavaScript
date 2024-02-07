@@ -204,6 +204,19 @@ Console Object Methods:
 
 The sub-directory exercises comprises exercise1.js, exercise2.js, and exercise3.js files designed for practicing the concepts learned on day13.
 
+# Day 14
+Includes the file day14.js and the directory exercises. I gained knowledge in JavaScript Error Handling, covering the following concepts:
+
+- Types of Errors
+- try
+- catch
+- finally
+- throw
+
+
+
+
+
 
 
 
