@@ -79,7 +79,7 @@ The exercises sub-directory contains exercise1.js, exercise2.js, and exercise3.j
 
 # Day 6
 
-Includes the day6.js file and the exercise6 directory. During this session, I gained knowledge of various JavaScript loop concepts, such as:
+Includes the day6.js file and the exercises directory. During this session, I gained knowledge of various JavaScript loop concepts, such as:
 
 - For Loop
 - While Loop
@@ -202,7 +202,7 @@ Console Object Methods:
 - console.count()
 - console.clear()
 
-The sub-directory exercise13 comprises exercise1.js, exercise2.js, and exercise3.js files designed for practicing the concepts learned on day13.
+The sub-directory exercises comprises exercise1.js, exercise2.js, and exercise3.js files designed for practicing the concepts learned on day13.
 
 
 
