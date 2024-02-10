@@ -214,6 +214,23 @@ Includes the file day14.js and the directory exercises. I gained knowledge in Ja
 - throw
 
 
+# Day 15
+Includes the day15.js file and the exercise directory. During this session, I gained knowledge about JavaScript Classes, covering the following concepts:
+
+- Class Definition
+- Instantiating Classes
+- Class Constructor
+- Setting Default Values with Constructor
+- Class Methods
+- Getters
+- Setters
+- Static Methods
+- Inheritance
+- Overriding Methods
+
+The exercise15 sub-directory holds exercise1.js, exercise2.js, and exercise3.js files for practicing the concepts learnt in day15.
+
+
 
 
 
