@@ -230,6 +230,17 @@ Includes the day15.js file and the exercise directory. During this session, I ga
 
 The exercise15 sub-directory holds exercise1.js, exercise2.js, and exercise3.js files for practicing the concepts learnt in day15.
 
+# Day 16
+Includes the day16.js file and the exercises directory.Today i explored JSON and delved into the following topics:
+
+JSON
+- Transformation of JSON to a JavaScript Object
+- Utilizing a reviver function with JSON.parse()
+- Conversion of Object to JSON
+- Application of a Filter Array with JSON.stringify()
+
+Within the exercises sub-directory, you'll find exercise1.js, exercise2.js, and exercise3.js files designed for hands-on practice of the concepts covered in day16.
+
 
 
 
