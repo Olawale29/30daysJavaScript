@@ -241,6 +241,19 @@ JSON
 
 Within the exercises sub-directory, you'll find exercise1.js, exercise2.js, and exercise3.js files designed for hands-on practice of the concepts covered in day16.
 
+# Day 17
+Includes the day17.js file and exercises directory. During this session, I gained knowledge about Web Storages in JavaScript, covering the following concepts:
+
+- sessionStorage
+- localStorage
+- Practical applications of Web Storages
+- Setting items in localStorage
+- Retrieving items from localStorage
+- Clearing localStorage
+
+Within the exercises sub-directory, you'll find exercise1.js, exercise2.js, and exercise3.js files for hands-on practice of the concepts learnt on day17.
+
+
 
 
 
