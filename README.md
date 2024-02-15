@@ -253,7 +253,7 @@ Includes the day17.js file and exercises directory. During this session, I gaine
 
 Within the exercises sub-directory, you'll find exercise1.js, exercise2.js, and exercise3.js files for hands-on practice of the concepts learnt on day17.
 
-
+# Day 18
 Includes the file day18.js and the directory exercises. I gained knowledge about Web Promises in JavaScript, covering the following concepts:
 
 Promises
