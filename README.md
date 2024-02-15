@@ -256,11 +256,11 @@ Within the exercises sub-directory, you'll find exercise1.js, exercise2.js, and 
 # Day 18
 Includes the file day18.js and the directory exercises. I gained knowledge about Web Promises in JavaScript, covering the following concepts:
 
-Promises
-Callbacks
-Promise Constructor
-Fetch API
-Async and Await
+- Promises
+- Callbacks
+- Promise Constructor
+- Fetch API
+- Async and Await
 Within the exercises sub-directory, you can find exercise1.js, exercise2.js, and exercise3.js files for hands-on practice with the concepts learned in day18.
 
 
