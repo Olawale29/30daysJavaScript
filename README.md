@@ -263,6 +263,15 @@ Includes the file day18.js and the directory exercises. I gained knowledge about
 - Async and Await
 Within the exercises sub-directory, you can find exercise1.js, exercise2.js, and exercise3.js files for hands-on practice with the concepts learned in day18.
 
+# Day 19
+Includes the day19.js file and the exercises directory. During this session, I delved into the concept of Closure in JavaScript, covering the following key elements:
+
+- Closure
+- Inner Function
+- Outer Function
+
+Within the exercises sub-directory, you'll find exercise1.js, exercise2.js, and exercise3.js files designed for hands-on practice of the concepts covered in day19.
+
 
 
 
