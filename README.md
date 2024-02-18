@@ -272,6 +272,24 @@ Includes the day19.js file and the exercises directory. During this session, I d
 
 Within the exercises sub-directory, you'll find exercise1.js, exercise2.js, and exercise3.js files designed for hands-on practice of the concepts covered in day19.
 
+# Day 20
+Includes the day20.js file and the exercise directory. I studied the principles of crafting tidy JavaScript code, covering the following concepts:
+
+Clean JavaScript Coding
+
+- JavaScript Style Guidelines
+
+- Importance of Style Guidelines
+
+- Airbnb JavaScript Style Guide
+
+- Essential JavaScript Style Guide
+
+- Google JavaScript Style Guide
+
+- JavaScript Coding Conventions
+
+
 
 
 
