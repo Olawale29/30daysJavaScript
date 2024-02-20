@@ -289,9 +289,20 @@ Clean JavaScript Coding
 
 - JavaScript Coding Conventions
 
+# Day 21
+Includes the file day21.js and the directory exercises. During this session, I acquired knowledge of the Document Object Model (DOM) in JavaScript, covering the following concepts:
 
+- JavaScript DOM
 
+- Retrieving Elements - Using methods like getElementsByClassName, getElementsByTagName, getElementById, and querySelector()
 
+- Modifying Attributes - Utilizing setAttribute() and classList()
+
+- Appending Text to HTML Elements - Leveraging textContent and innerHTML
+
+- Applying Styles
+
+Within the exercises sub-directory, you will find the files exercise.js, exercise2.js, and exercise3.js, which serve as practical exercises for reinforcing the concepts learnt on day21.
 
 
 
