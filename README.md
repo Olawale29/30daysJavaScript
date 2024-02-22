@@ -306,8 +306,15 @@ Within the exercises sub-directory, you will find the files exercise.js, exercis
 
 
 
+# Day 22
+Includes the file day22.js and the exercises directory. In JavaScript, I gained knowledge about the Document Object Model, covering the following concepts:
 
+- Manipulating DOM Objects
+  - Creating an Element
+  - Appending a child to a parent element
+  - Removing a child element from a parent node
 
+The exercises sub-directory consists of exercise1.js, exercise2.js, and exercise3.js files for hands-on practice of the concepts learned in day22.
 
 
 
