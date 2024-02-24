@@ -317,7 +317,7 @@ Includes the file day22.js and the exercises directory. In JavaScript, I gained 
 The exercises sub-directory consists of exercise1.js, exercise2.js, and exercise3.js files for hands-on practice of the concepts learned in day22.
 
 
-
+# Day 23
 Day 23 includes a day23.js file and an exercises directory. During this session, I gained knowledge about Event Listeners in JavaScript, covering the following concepts:
 Event Listeners:
 - Click
