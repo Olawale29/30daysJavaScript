@@ -318,8 +318,17 @@ The exercises sub-directory consists of exercise1.js, exercise2.js, and exercise
 
 
 
-
-
+Day 23 includes a day23.js file and an exercises directory. During this session, I gained knowledge about Event Listeners in JavaScript, covering the following concepts:
+Event Listeners:
+- Click
+- Double Click
+- Mouse Enter
+- Retrieving value from an input element
+- Input value
+- Input event and change
+- Blur event
+- Keypress, keydown, and keyup
+Within the exercises sub-directory, you can find exercise1.js, exercise2.js, and exercise3.js files for practicing the concepts learned on day 23.
 
 
 
