@@ -1,0 +1,1 @@
+I worked on a solar system to calulate the weight of an object in different planets

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Solar System: Document Object Model:30 Days Of JavaScript</title>
+	<!-- <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap" rel="stylesheet"> -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@600&family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,900;1,9..144,700&family=Josefin+Sans:wght@400;700&family=League+Spartan:wght@100;200;300;400;500;600;700;800&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+    <style>
+        body{
+            background-image: url(/exercise/images/galaxy.gif);
+            font-family:Montserrat;
+            color: white;
+            text-align: center;
+        }
+        header{
+            text-align: center;
+        }
+        .calc{
+            color: white;
+
+        }
+        .input{
+            height: 35px;
+            width: 15%;
+        }
+        select{
+            height: 35px;
+            background-color: whitesmoke
+
+        }
+        button{
+            height: 35px;
+
+        }
+        .container{
+            /* background-color: rgba(153, 146, 146, 0.438); */
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            /* flex-direction: column; */
+            align-items: center; 
+            background-color: rgba(153, 146, 146, 0.438);
+            padding: 20px;
+            margin-bottom: 30px;
+            height: 35rem;
+        }
+        .push{
+            margin-top: 50px;
+            background-color: rgba(153, 146, 146, 0.432);
+            height: 55%;
+           
+        } 
+         .number{
+            /* background-color:rgba(153, 146, 146, 0.432); */
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            text-align: center;
+            padding-top: 50px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .image{
+            margin-top: 55px;
+        }
+    
+     
+
+    </style>
+</head>
+<body>
+	<header class="p-4">
+		<h1 class="calc">Calculate a weight of an object on a planet</h1><br><br>
+
+		<input class="input" type="text" id="mass" placeholder="Mass in Kilogram" />
+		<select id="select" onchange="getOptionValue()">
+			<option value='none'>--select planet-- </option>
+            <option value='MERCURY'>MERCURY</option>
+            <option value='VENUS'>VENUS</option>
+            <option value='EARTH'>EARTH</option>
+            <option value='MOON'>MOON</option>
+            <option value='JUPITER'>JUPITER</option>
+            <option value='SATURN'>SATURN</option>
+            <option value='URANUS'>URANUS</option>
+            <option value='NEPTUNE'>NEPTUNE</option>
+            <option value='PLUTO'>PLUTO</option>
+
+		</select>
+		<button type="button" onclick="calculateWeight()">Calculate weight</button>
+
+	</header>
+	<main><br><br>
+		<div class="container">
+                <div class="image">
+                    <img style="width: 70%;" src='./images/earth.png' class="planet-image" />
+                </div>
+                <div class="p-5 push">
+                    <h3 class="weightText"></h3>
+                    <div>
+                        <h3 class="number"></h3>
+                    </div>         
+                </div>
+		</div>
+
+
+	</main>
+
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+	<script src="./scripts/main.js"></script>
+</body>
+
+</html>
