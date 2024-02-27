@@ -330,6 +330,15 @@ Event Listeners:
 - Keypress, keydown, and keyup
 Within the exercises sub-directory, you can find exercise1.js, exercise2.js, and exercise3.js files for practicing the concepts learned on day 23.
 
+On day 24 I worked on a solar system to calulate the weight of an object in different planets.
+functions created are:
+- getOptionsValue()
+- calculateWeight()
+- showImageAndDisplayWeight()
+- hideImageAndDisplayMessage()
+-showImageAndDisplayWeight()
+Within the exercise sub-directory, you can find main.js file for practicing the concepts learned on day 24.
+
 
 
 
