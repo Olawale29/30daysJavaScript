@@ -337,7 +337,7 @@ functions created are:
 - calculateWeight()
 - showImageAndDisplayWeight()
 - hideImageAndDisplayMessage()
--showImageAndDisplayWeight()
+- showImageAndDisplayWeight()
 Within the exercise sub-directory, you can find main.js file for practicing the concepts learned on day 24.
 
 
