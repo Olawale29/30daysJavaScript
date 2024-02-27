@@ -328,6 +328,7 @@ Event Listeners:
 - Input event and change
 - Blur event
 - Keypress, keydown, and keyup
+  
 Within the exercises sub-directory, you can find exercise1.js, exercise2.js, and exercise3.js files for practicing the concepts learned on day 23.
 
 # Day 24
