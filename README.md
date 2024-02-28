@@ -339,8 +339,21 @@ functions created are:
 - showImageAndDisplayWeight()
 - hideImageAndDisplayMessage()
 - showImageAndDisplayWeight()
-  
+
+# Day 25
 Within the exercise sub-directory, you can find main.js file for practicing the concepts learned on day 24.
+
+Functions created
+
+- mostSpokenLanguages()
+
+- mostPopulatedCountries()
+
+- createElements()
+
+- displayData()
+
+Contains index.html, style.css and day25.js files. I created a World Countries Data Visualization App in JavaScript
 
 
 
