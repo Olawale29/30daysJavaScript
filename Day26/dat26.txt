@@ -1,0 +1,5 @@
+Includes index.html, style.css, day26.js files, and a search directory. I developed a JavaScript application for visualizing world countries' data, featuring the following functions:
+
+generateCountries()
+searchWord()
+sortSearchResult()
