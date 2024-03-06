@@ -1,0 +1,5 @@
+Contains index.html, style.css and day29.js files. I animated characters in JavaScript.
+
+Functions created
+
+- selectRandomColor()
