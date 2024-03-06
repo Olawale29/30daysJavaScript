@@ -353,10 +353,41 @@ Functions created
 
 - displayData()
 
-Contains index.html, style.css and day25.js files. I created a World Countries Data Visualization App in JavaScript
+Contains index.html, style.css and day25.js files. I created a World Countries Data Visualization App in JavaScript.
 
+# Day 26
+Contains index.html, style.css, day26.js files and search directory. I created a World Countries Data Visualization App in JavaScript
 
+Functions created
 
+- generateCountries()
+
+- searchWord()
+
+- sortSearchResult()
+
+# Day 27
+
+Contains index.html, style.css and day27.js files. I created learnt how to animate characters in JavaScript, in the process creating a mini portfolio website.
+
+Functions created
+
+- selectRandomElement()
+
+- selectTalent()
+
+# Day 28
+Includes index.html, style.css, and day28.js files. I've implemented a JavaScript leaderboard with the following functions:
+
+- validateInputField()
+- validateNumberInputField()
+- currentDateTime()
+- createPlayer()
+- updatePlayer()
+- addPlayer()
+- deletePlayer()
+- increasePlayerScore()
+- decreasePlayerScore()
 
 
 
