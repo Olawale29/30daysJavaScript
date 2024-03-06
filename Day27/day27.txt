@@ -1,0 +1,7 @@
+Contains index.html, style.css and day27.js files. I created learnt how to animate characters in JavaScript, in the process creating a mini portfolio website.
+
+Functions created
+
+- selectRandomElement()
+
+- selectTalent()
