@@ -1,0 +1,11 @@
+Includes index.html, style.css, and day28.js files. I've implemented a JavaScript leaderboard with the following functions:
+
+1. validateInputField()
+2. validateNumberInputField()
+3. currentDateTime()
+4. createPlayer()
+5. updatePlayer()
+6. addPlayer()
+7. deletePlayer()
+8. increasePlayerScore()
+9. decreasePlayerScore()
