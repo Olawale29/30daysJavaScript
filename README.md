@@ -394,7 +394,7 @@ Contains index.html, style.css and day29.js files. I animated characters in Java
 Functions created
 - selectRandomColor()
 
-#Day 30
+# Day 30
 Contains index.html, style.css and day30.js files. I validated a form in JavaScript.
 
 Functions created
