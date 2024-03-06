@@ -389,6 +389,11 @@ Includes index.html, style.css, and day28.js files. I've implemented a JavaScrip
 - increasePlayerScore()
 - decreasePlayerScore()
 
+# Day 29
+Contains index.html, style.css and day29.js files. I animated characters in JavaScript.
+Functions created
+- selectRandomColor()
+
 
 
 
